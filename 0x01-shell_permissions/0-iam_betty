@@ -1,3 +1,2 @@
 #!/bin/bash
-userid -u
-  
+su betty  
