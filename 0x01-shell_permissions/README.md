@@ -1,0 +1,1 @@
+File systems use permissions and attributes to regulate the level of interaction that system processes can have with files and directories.
