@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 111 dir0
+chmod a+x -R */ 
