@@ -1,0 +1,1 @@
+Project about init files, variables and expansions.
