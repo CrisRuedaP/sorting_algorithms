@@ -1,1 +1,0 @@
-grep -n bin /etc/passwd

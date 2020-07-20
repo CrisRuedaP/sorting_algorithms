@@ -1,1 +1,0 @@
-Building a static C Library. 

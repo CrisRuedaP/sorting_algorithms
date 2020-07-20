@@ -1,1 +1,0 @@
-Project about the Shell input/output redirections.

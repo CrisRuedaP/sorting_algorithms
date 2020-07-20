@@ -1,1 +1,0 @@
-Shell scripting is writing a series of command for the shell to execute.
